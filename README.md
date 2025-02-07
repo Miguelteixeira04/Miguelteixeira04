@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍🎓 Studying at the Universidade de Trás-os-Montes e Alto Douro.
+👨‍🎓 Engineering student at the Universidade de Trás-os-Montes e Alto Douro.
 ⚡ My code may not always be "Rockstar", but at least his playlists are.
 
 ## 🌐 Socials:
